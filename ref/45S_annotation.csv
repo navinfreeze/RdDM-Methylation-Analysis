@@ -1,0 +1,10 @@
+feature,start_bp,end_bp,kind
+ ,0,325,line
+Min promoter,326,386,block
+5' ETS,381,2217,line
+18S,2218,4025,block
+ ,4026,4293,line
+5.8S,4294,4457,block
+ ,4458,4648,line
+25S,4649,8032,block
+3' ETS,8033,8815,line
